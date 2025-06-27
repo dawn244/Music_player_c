@@ -4,6 +4,9 @@ Music player that runs on terminal. Built using windows library in c.
 In the code, the .wav files are present locally on the system. 
 To play the same music files, download the files from the drive link below and
 copy the path of the files into the songpaths array in the code.
+You can also play your by saving them locally.
+
+Gdrive link: https://drive.google.com/drive/folders/1Eti3LMgDErURh34LWGg92vMOMgGZao4b?usp=sharing
 
 The logic uses windows.h library and PlaySound function which work only with wav files.
 
