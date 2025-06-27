@@ -12,11 +12,11 @@ char songlist[4][50] = {
 };
 
 char songpaths[5][100] = {
-    "C:\\Users\\Mahinoor\\Downloads\\Birds of a feather.wav",
-    "C:\\Users\\Mahinoor\\Downloads\\Piano Music.wav",
-    "C:\\Users\\Mahinoor\\Downloads\\About You.wav",
-    "C:\\Users\\Mahinoor\\Downloads\\instrumental.mp3",
-    "C:\\Users\\Mahinoor\\Downloads\\trap wsve.mp3"
+    "C:\\path1\\Birds of a feather.wav",
+    "C:\\path2\\Piano Music.wav",
+    "C:\\path3\\About You.wav",
+    "C:\\path4\\instrumental.wav",
+    "C:\\path5\\trap wsve.wav"
 };
 
 char playPauseChoice[10];
