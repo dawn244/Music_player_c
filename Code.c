@@ -4,11 +4,12 @@
 #include <mmsystem.h>
 #pragma comment(lib, "winmm.lib")
 
-char songlist[4][50] = {
+char songlist[5][70] = {
     "Birds of a feather",
     "Piano",
     "About You",
-    "Upbeat"
+    "Instrumental",
+    "Trap Wave"
 };
 
 char songpaths[5][100] = {
